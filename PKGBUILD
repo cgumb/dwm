@@ -1,8 +1,8 @@
 _pkgname=dwm
 pkgname=$_pkgname-larbs-git
-pkgver=6.4.r1925.7156045
+pkgver=6.4.r1929.911e60a
 pkgrel=1
-pkgdesc="Luke's build of dwm"
+pkgdesc="Chris's fork of Luke's dwm"
 url=https://github.com/cgumb/dwm
 arch=(i686 x86_64)
 license=(MIT)
