@@ -13,7 +13,7 @@ optdepends=(
 	'st: terminal emulator')
 provides=($_pkgname)
 conflicts=($_pkgname)
-source=(git+https://github.com/cgumb/dwm)
+source=(git+https://github.com/cgumb/dwm.git)
 sha256sums=('SKIP')
 
 pkgver() {
